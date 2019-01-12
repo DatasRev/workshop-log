@@ -45,8 +45,8 @@ print(dict_comp_result_dict)
 # The syntax is the same as comprehensions
 my_generator = ( number * 2 for number in my_generic_list )
 
-print(generator)
+print(my_generator)
 # WTF?! How could I print the values?
 
-print(next(generator))
+print(next(my_generator))
 
