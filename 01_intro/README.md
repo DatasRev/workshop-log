@@ -1,7 +1,7 @@
 # 2019-01-12
 
 7 tag vett részt:
-Dóra, Lívi, Ádám, Balázs, Berci, Gábor, Levente 
+*Dóra, Lívi, Ádám, Balázs, Berci, Gábor, Levente*
 
 Ez volt az első találkozó. Az eleje kicsit kaotikusra sikerült a lassú WiFi, a mindenkinél különböző software architektúra,
 és a nem teljesen átgondolt fejlesztői környezet telepítése miatt.
