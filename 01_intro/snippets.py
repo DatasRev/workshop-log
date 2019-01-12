@@ -17,4 +17,36 @@ print("Every element of 'my_generic_list' had the same type ",
 print("There was a string in 'my_mixed_list'",
         "so 'my_np_array2' contains {} ".format(my_np_array2))
 
+###
+# LIST COMPREHENSION
+###
+
+# Iterate through a list and generate a new one
+result_list = []
+for num in my_generic_list:
+    result_list.append(num * 2)
+print(result_list)
+
+# The same result with list comp.
+list_comp_result_list = [ number * 2 for number in my_generic_list ]
+print(list_comp_result_list)
+
+###
+# DICT COMPREHENSION
+###
+
+dict_comp_result_dict = { elem: int(elem) for elem in my_np_array2 }
+print(dict_comp_result_dict)
+
+###
+# GENERATOR (lazy/on-demand evaluation)
+###
+
+# The syntax is the same as comprehensions
+my_generator = ( number * 2 for number in my_generic_list )
+
+print(generator)
+# WTF?! How could I print the values?
+
+print(next(generator))
 
