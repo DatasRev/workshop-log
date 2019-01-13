@@ -6,11 +6,11 @@
 Ez volt az első találkozó. Az eleje kicsit kaotikusra sikerült a lassú WiFi, a mindenkinél különböző software architektúra,
 és a nem teljesen átgondolt fejlesztői környezet telepítése miatt.
 
-A Vagrantos környezet egyelőre hagytuk, de következő alkalomra valahogy összehozzuk...
+A Vagrantos környezetet egyelőre hagytuk, de következő alkalomra valahogy összehozzuk...
 ###### TODO: Levente kiegyenesíti a Vagrantfile-t
-a gitter csatornán () megoldjuk, hogy mindenkinek fusson akár VirtualBox, akár Hyper-V alapon
+a gitter csatornán (https://gitter.im/DatasRev/workshop) megoldjuk, hogy mindenkinek fusson akár VirtualBox, akár Hyper-V alapon
 
-Online futtató környezetben megnéztük a különbséget a hagyományos Python lista és a numPy által biztosított array/tömb között
+Online futtató környezeten (https://www.tutorialspoint.com/execute_python_online.php) megnéztük a különbséget a hagyományos Python lista és a numPy által biztosított array/tömb között
 
 Szó volt még verzió-kezelésről (git és GitHub), későbbi tervekről közös versenyen indulásról (https://www.kaggle.com/competitions),
 és Levente túl sokat sztorizott lazán kapcsolódó dolgokról (ejnye)
