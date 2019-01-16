@@ -32,8 +32,9 @@ English version below:
 7 people attended: 
 *Dóra, Lívi, Ádám, Balázs, Berci, Gábor, Levente*
 
-This was the first meeting. The beginning was a little bit chaotic, because of the the slow WiFi, the different software architecture for everyone, and because we don't deliberate enought what development enviroment need to install for the work.
+This was the first meeting. The beginning was a little bit chaotic, because of the slow WiFi, the different software architecture for everyone, and because we don't deliberate enough what development environment need to install for the work.
 
 We have left the Vagrant environment for the time being, but for next time we will bring it to live...
 ###### TODO: Levente need to fix the Vagrantfile.
-We try to solve in our gitter chat (https://gitter.im/DatasRev/workshop)
+We try to solve in our gitter chat (https://gitter.im/DatasRev/workshop) some problem like we want to run it in VirtualBox, or Hyper-V based.
+
