@@ -1,1 +1,1 @@
-﻿Feltöltés alatt.
+﻿A mai workshopon ismét a Yellow Zebrában voltunk. Átnéztük Berci Data Cleaning jegyzetét, majd az ide is feltötött gapminder projekten mentünk végig általam. Adattisztítás, nem aktuális oszlopok törlése, memória optimalizáció, ellenőrzés/hibakeresés, vizualizálás. Ezután még egy kis Pandas Cookbook, ismét visszatérve a memória optimalizálásra.
