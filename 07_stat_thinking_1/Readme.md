@@ -1,0 +1,1 @@
+﻿Ezúttal Dóri tartott a statisztika alapjaiból egy áttekintést, illetve Berci folytatta a Pandas Cookbook-ot. Ez utóbbi a Pandas_Cookbook repoban található, a 105-ös számú, Dóri notebookja pedig a workshop-prep 07-es könyvtárában.
